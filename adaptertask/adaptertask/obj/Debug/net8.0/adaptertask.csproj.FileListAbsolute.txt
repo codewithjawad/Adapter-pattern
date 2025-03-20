@@ -1,0 +1,14 @@
+C:\Users\PMLS\source\repos\adaptertask\adaptertask\bin\Debug\net8.0\adaptertask.exe
+C:\Users\PMLS\source\repos\adaptertask\adaptertask\bin\Debug\net8.0\adaptertask.deps.json
+C:\Users\PMLS\source\repos\adaptertask\adaptertask\bin\Debug\net8.0\adaptertask.runtimeconfig.json
+C:\Users\PMLS\source\repos\adaptertask\adaptertask\bin\Debug\net8.0\adaptertask.dll
+C:\Users\PMLS\source\repos\adaptertask\adaptertask\bin\Debug\net8.0\adaptertask.pdb
+C:\Users\PMLS\source\repos\adaptertask\adaptertask\obj\Debug\net8.0\adaptertask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PMLS\source\repos\adaptertask\adaptertask\obj\Debug\net8.0\adaptertask.AssemblyInfoInputs.cache
+C:\Users\PMLS\source\repos\adaptertask\adaptertask\obj\Debug\net8.0\adaptertask.AssemblyInfo.cs
+C:\Users\PMLS\source\repos\adaptertask\adaptertask\obj\Debug\net8.0\adaptertask.csproj.CoreCompileInputs.cache
+C:\Users\PMLS\source\repos\adaptertask\adaptertask\obj\Debug\net8.0\adaptertask.dll
+C:\Users\PMLS\source\repos\adaptertask\adaptertask\obj\Debug\net8.0\refint\adaptertask.dll
+C:\Users\PMLS\source\repos\adaptertask\adaptertask\obj\Debug\net8.0\adaptertask.pdb
+C:\Users\PMLS\source\repos\adaptertask\adaptertask\obj\Debug\net8.0\adaptertask.genruntimeconfig.cache
+C:\Users\PMLS\source\repos\adaptertask\adaptertask\obj\Debug\net8.0\ref\adaptertask.dll
